@@ -1,0 +1,10 @@
+has EGL_EXT_buffer_age and EGL_EXT_swap_buffers_with_damage
+302 frames in 5 seconds: 60.400002 fps
+302 frames in 5 seconds: 60.400002 fps
+302 frames in 5 seconds: 60.400002 fps
+Instance created
+physical device created
+Found multiple keyboards:
+(0) [/dev/input/event5]
+(1) [/dev/input/event3]
+Choose one: EGL 1.4 initialized
